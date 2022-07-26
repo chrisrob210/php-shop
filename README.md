@@ -12,6 +12,6 @@ The shopping cart uses sessions to keep track of items in cart.
 
 ### Setup
 1. download and extract files
-2. import `/shop/shop.sql` table into sql database
+2. import `/shop/shop.sql` table into sql database. Must be named `shop`
 3. set the proper details in `/json/mysql.json`  
 ![](setup/img/setup-mysql.png)
